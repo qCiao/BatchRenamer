@@ -1,0 +1,13 @@
+# 编译产物
+*.exe
+*.dll
+*.pdb
+
+# 构建目录
+bin/
+obj/
+
+# IDE
+.vs/
+*.user
+*.suo
